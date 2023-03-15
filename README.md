@@ -29,7 +29,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-<img src="assets/workday.png"></img>
+<img src="Assets/Workday.png"></img>
 
 # Deployed Page
 The webpage has been deployed at: https://dejacowart.github.io/Work-Day-Scheduler/
